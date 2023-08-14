@@ -1,0 +1,18 @@
+### Tables of contents
+- Introduction to GitHub and Git
+    - What is Git?
+    - What is GitHub?
+    - The difference between GitHub and Git
+- How to start using Git and GitHub
+    - Install Git use the link [here](https://git-scm.com/download)
+    - To Sign Up use the link [here](https://github.com/)
+    - Connect your GitHub account to Git
+- Create your first Repository on GitHub
+    - Create and edit your file locally using Vscode
+    - Push and Pull your local file to GitHub
+    - Create branch
+    - Git pull
+- Tools to use
+    - Git
+    - GitHub
+    - VSCode
