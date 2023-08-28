@@ -32,3 +32,8 @@ Presentation Slide can be found [here](https://docs.google.com/presentation/d/1g
 * IBM Getting Started with Git and GitHub [Here](https://www.coursera.org/learn/getting-started-with-git-and-github)
 * Command Line Crash Course [Here](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 * Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) [Here](https://www.youtube.com/watch?v=hrTQipWp6co)
+* Git Started with GitHub (Udemy) [Here](https://www.udemy.com/course/git-started-with-github/)
+* The Ultimate GIT 5-day Challenge (Udemy) [Here](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
+* Command Line Essentials: Git Bash for Windows (Udemy) [Here](https://www.udemy.com/course/git-bash/)
+* Learn Git: Everything You Need To Know (Udemy)[Here](https://www.udemy.com/course/learngit/)
+* Command Line Essentials: Git Bash for Windows (Udemy) [Here](https://www.udemy.com/course/git-bash/)
