@@ -1,7 +1,7 @@
 ### Introduction to Git and GitHub
 Git and GitHub are powerful tools for programming. They help developers manage/organize different versions of their code and collaborate with other developers. Creating projects is one of the fundamental parts of being a developer. And Git and GitHub are essential tools that help developers when building projects with others.
 
-Let's look at how developers use Git and GitHub in their projects. We will be working with the foloowing contents below:
+Let's look at how developers use Git and GitHub in their projects. We will be working with the following contents below:
 
 - Introduction to GitHub and Git
     - What is Git?
