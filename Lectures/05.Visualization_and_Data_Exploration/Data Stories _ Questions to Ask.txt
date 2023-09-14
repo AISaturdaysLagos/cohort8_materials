@@ -1,0 +1,28 @@
+1. Correlation between number of installs & ratings
+2. Relationship between price & number of installs
+3. Relationship between reviews and ratings
+4. The most popular categories of apps
+5. most downloaded and least downloaded app in each category
+6. Distribution of numerical variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
