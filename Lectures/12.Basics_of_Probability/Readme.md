@@ -15,7 +15,6 @@ This course focuses on the foundational concepts of Probability within the realm
 - **Example Application:** Real-world application of probability in data science, illustrating how theoretical concepts are applied in practice.
 Sure, here's the refined section with the addition of YouTube resources:
 
----
 
 ## Lecture Slides and Recorded YouTube Sessions
 
