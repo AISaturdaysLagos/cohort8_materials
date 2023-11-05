@@ -13,8 +13,6 @@ This lecture focuses on the foundational concepts of Probability within the real
 - **Common Distributions:** Exploration of various probability distributions that are essential in the field, including their properties and applications.
   
 - **Example Application:** Real-world application of probability in data science, illustrating how theoretical concepts are applied in practice.
-Sure, here's the refined section with the addition of YouTube resources:
-
 
 ## Lecture Slides and Recorded YouTube Sessions
 
