@@ -28,5 +28,5 @@ To deepen your grasp of the course content, please access the resources below:
 
 ## Additional Resources
 For further reading and more detailed explanations, the following resources are recommended:
-1. [Lecture Notes on Probability](https://www.datasciencecourse.org/slides/15388_S22_Lecture_16_probability.pdf) - A detailed slide deck discussing the nuances of probability in data science.
-2. [Probability Notes](http://www.datasciencecourse.org/notes/probability/) - Comprehensive notes covering the basic rules and common distributions in probability.
+1. [CMU datascience course lecture slide on basics of probability](https://www.datasciencecourse.org/slides/15388_S22_Lecture_16_probability.pdf) - A detailed slide deck discussing the nuances of probability in data science.
+2. [CMU Datascience course lecture note on basics of probability](http://www.datasciencecourse.org/notes/probability/) - Comprehensive note covering the basic rules and common distributions in probability.
