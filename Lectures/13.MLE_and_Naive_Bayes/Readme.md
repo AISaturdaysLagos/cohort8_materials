@@ -19,7 +19,7 @@ To deepen your grasp of the course content, please access the resources below:
 
 - **Lecture Slides:** Review the slide deck to gain a clearer understanding of Probability as it applies to Data Science. [Access the slides here](https://docs.google.com/presentation/d/e/2PACX-1vSXYIcVOiWWCuUOjX_kyQHxCvheKjvx8rWWmPkNVeAkphXABRsMeNJGH5vzffZCsA/pub?start=false&loop=false&delayms=3000).
 
-- **Recorded YouTube Session:** For a more interactive learning experience, watch the recorded sessions on YouTube. [Watch here](https://youtube.com/live/n4UGCtfE_XU).
+- **Recorded YouTube Session:** For a more interactive learning experience, watch the recorded session on YouTube. [Watch here](https://youtube.com/live/n4UGCtfE_XU).
 
 
 ## Additional Resources
