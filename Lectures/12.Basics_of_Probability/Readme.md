@@ -3,8 +3,8 @@
 
 Connect with the instructor and follow her professional insights on [LinkedIn](https://www.linkedin.com/in/emefaduah/?originalSubdomain=gh), and [Twitter/X](https://twitter.com/EmefaDuah).
 
-## Course Topics
-This course focuses on the foundational concepts of Probability within the realm of Data Science. The materials provided offer in-depth knowledge on the following key areas:
+## Lecture Topics
+This lecture focuses on the foundational concepts of Probability within the realm of Data Science. The materials provided offer in-depth knowledge on the following key areas:
 
 - **Probability in Data Science:** Understanding the role probability plays in making data-driven decisions and predictions.
   
