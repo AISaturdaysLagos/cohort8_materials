@@ -6,15 +6,10 @@ Connect with the instructor and follow her professional insights on [LinkedIn](h
 ## Lecture Topics
 This lecture focuses on unsupervised learning. The materials provided offer in-depth knowledge on the following key areas:
 
-- Unsupervised Learning and its Applications
-- Challenges of Unsupervised learning
+- Unsupervised learning, its applications and challenges
 - Types of Unsupervised Learning Techniques
-- Clustering Approaches
-- K Means
-- Gaussian Mixture Models
-- Dimensionality Reduction
-- PCA
-
+    - Clustering Approaches (K Means, Gaussian Mixture Models)
+    - Dimensionality Reduction (PCA)
 
 ## Lecture Slides and Recorded YouTube Sessions
 
