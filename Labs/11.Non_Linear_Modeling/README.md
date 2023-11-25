@@ -14,4 +14,4 @@ This lab delves into the complexities of nonlinear modeling, with a focus on enh
 - **External Data Augmentation**: Integration of external datasets to create a richer feature set, guided by insights into the music industry and song popularity metrics.
 - **Model Evaluation**: Systematic evaluation of the model's performance, leveraging cross-validation and regularization to achieve a robust prediction mechanism.
 
-Throughout the lab, participants will gain hands-on experience with Python and machine learning libraries, applying theoretical concepts to real-world data. By the end, participants will have a nuanced understanding of how to tackle overfitting, select meaningful features, and validate the performance of sophisticated nonlinear models.
+Throughout the lab, scholars will gain hands-on experience with Python and machine learning libraries, applying theoretical concepts to real-world data. By the end, scholars will have a nuanced understanding of how to tackle overfitting, select meaningful features, and validate the performance of sophisticated nonlinear models.
